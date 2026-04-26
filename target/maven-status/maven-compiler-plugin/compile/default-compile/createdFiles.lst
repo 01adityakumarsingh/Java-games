@@ -1,0 +1,4 @@
+com\whacamole\controller\GameController.class
+com\whacamole\WhacAMoleApplication.class
+com\whacamole\model\GameRecord.class
+com\whacamole\repository\GameRepository.class
